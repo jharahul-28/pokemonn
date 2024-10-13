@@ -1,0 +1,11 @@
+.nav{
+    text-align: left;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+
+.navContent{
+    font-size: 1.5rem;
+    color: yellow;
+    text-decoration: underline;
+}
