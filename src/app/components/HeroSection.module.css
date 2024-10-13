@@ -17,7 +17,7 @@
     width: max-content;
 }
 
-.hSContent>div>span{
+.hSContent>div>div{
     font-size: 2rem;
     color: yellow;
     text-decoration: underline;

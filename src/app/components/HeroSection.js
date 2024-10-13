@@ -7,7 +7,7 @@ const HeroSection = () => {
     <div className={styles.heroSection}>
       <Navbar/>
       <div className={styles.hSContent}>
-        <div>WELCOME TO <span>POKEMON</span> LAND</div>
+        <div>WELCOME TO <div>Pokémon</div> LAND</div>
         <div></div>
       </div>
     </div>
